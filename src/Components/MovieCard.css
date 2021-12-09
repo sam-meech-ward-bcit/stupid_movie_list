@@ -1,0 +1,6 @@
+.movie-card {
+    width: 300px;
+    padding: 20px;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
